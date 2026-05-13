@@ -1,0 +1,5 @@
+
+Using device: cuda
+
+Classes:
+['angry', 'fear', 'happy', 'neutral', 'sad', 'surprise']
